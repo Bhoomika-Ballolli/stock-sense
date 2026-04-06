@@ -1,7 +1,12 @@
-# ◈ StockSense — AI Smart Stock Advisor
 
-A full-stack real-time stock analysis app inspired by Zerodha & Groww.  
-Built with **React (Vite)** · **Node.js (Express)** · **Yahoo Finance API** · **Recharts**
+# 📈 StockSense — AI Smart Stock Advisor
+
+🚀 AI-powered full-stack stock analysis platform that provides **BUY / SELL / HOLD recommendations** using real-time data and technical indicators.
+
+🔗 **Live Demo:** https://stock-sense-rho-three.vercel.app/
+
+---
+
 
 ---
 
@@ -185,6 +190,36 @@ This app is for **educational purposes only**.
 It does not constitute financial advice. Always do your own research before investing.
 
 ---
+## 📸 Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 🤖 AI Decision - HOLD
+
+![Hold](screenshots/hold.png)
+
+### 📉 AI Decision - SELL
+
+![Sell](screenshots/sell.png)
+
+### 📈 AI Decision - BUY
+
+![Buy](screenshots/buy.png)
+
+### 📊 Price Chart
+
+![Chart](screenshots/chart.png)
+
+### 📐 Technical Indicators
+
+![Indicators](screenshots/indicators.png)
+
+### 📰 Latest News
+
+![News](screenshots/news.png)
+
 
 ## 🐞 Troubleshooting
 
